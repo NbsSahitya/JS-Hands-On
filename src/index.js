@@ -243,3 +243,11 @@ function addFive(){
 }
 addThree();
 addFive();
+let processed = 0; //Task56:-Assignment with a Returned Value
+
+function processArg(num) {
+  return (num + 3) / 5;
+}
+
+// Only change code below this line
+processed = processArg(7);
