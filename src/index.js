@@ -10,3 +10,5 @@ var b;
 b=7;
 b = a;
 var a = 9; //Task5:-Initializing Variables with the Assignment Operator
+var myFirstName = "Sahitya"; //Task6:-Declare String Variables
+var myLastName = "Singh";
