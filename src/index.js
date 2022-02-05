@@ -87,3 +87,4 @@ b /= 4;
 c /= 11;
 const myStr = "I am a\"double quoted\" string inside \"double quotes\".";// Task25:-Escaping Literal Quotes in Strings
 const myStr = '<a href="http://www.example.com" target="_blank">Link</a>'; //Task26:-Quoting Strings with Single Quotes
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; //Task27:-Escape Sequences in Strings
