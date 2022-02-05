@@ -164,3 +164,10 @@ const removedFromMyArray = myArray.shift();//Task46:-Manipulate Arrays With shif
 const myArray = [["John", 23], ["dog", 3]];
 myArray.shift();
 myArray.unshift(["Paul", 35]) //Task47:- Manipulate Arrays With unshift
+var myList = [
+      ["Canned Beans", 3],
+      ["Milk Galon", 1],
+      ["Cereal", 2],
+      ["Toilet Paper", 12],
+      ["Sack of Rice", 1]
+    ]; //Task48:-Shopping List
