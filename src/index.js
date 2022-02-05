@@ -35,3 +35,7 @@ properCamelCase = "A String";
 titleCaseOver = 9000;
 let catName = "Oliver";
 let catSound = "Meow!"; //Task9:-Explore Differences Between the var and let Keywords
+const FCC = "freeCodeCamp"; // Change this line //Task10:-Declare a Read-Only Variable with the const Keyword
+let fact = "is cool!"; // Change this line
+fact = "is awesome!";
+console.log(FCC, fact); // Change this line
