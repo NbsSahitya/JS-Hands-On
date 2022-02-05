@@ -157,3 +157,5 @@ const myArray = [
     const myData = myArray[2][1]; //Task43:-Access Multi-Dimensional Arrays With Indexes
     const myArray = [["John", 23], ["cat", 2]];
 myArray.push(["dog", 3]); //Task44:-Manipulate Arrays With push()
+const myArray = [["John", 23], ["cat", 2]];
+const removedFromMyArray = myArray.pop() //Task45:-Manipulate Arrays With pop()
