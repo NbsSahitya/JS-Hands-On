@@ -92,3 +92,6 @@ const myStr = "This is the start."+" This is the end."; //Task28:-Concatenating 
 let myStr="This is the first sentence.";
 myStr+= " This is the second sentence."
 //Task29:-Concatenating Strings with the Plus Equals Operator
+// Task30:-Constructing Strings with Variables
+const myName = "Sahitya";
+const myStr = "hi,"+myName +" Singh";
