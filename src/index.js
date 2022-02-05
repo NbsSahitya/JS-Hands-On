@@ -104,3 +104,8 @@ const lastName = "Lovelace";
 // Only change code below this line
 lastNameLength = lastName.length;
 console.log(lastName.length);
+let firstLetterOfLastName = ""; //Task33:-Use Bracket Notation to Find the First Character in a String
+const lastName = "Lovelace";
+
+// Only change code below this line
+firstLetterOfLastName = lastName[0]; // Change this line
