@@ -95,3 +95,6 @@ myStr+= " This is the second sentence."
 // Task30:-Constructing Strings with Variables
 const myName = "Sahitya";
 const myStr = "hi,"+myName +" Singh";
+const someAdjective = "codeforce is awsome"; //Task31:-Appending Variables to Strings
+let myStr = "Learning to code is ";
+myStr +=someAdjective;
