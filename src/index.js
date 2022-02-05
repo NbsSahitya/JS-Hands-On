@@ -9,3 +9,4 @@ a = 7;
 var b;
 b=7;
 b = a;
+var a = 9; //Task5:-Initializing Variables with the Assignment Operator
