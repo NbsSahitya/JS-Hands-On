@@ -43,3 +43,7 @@ const sum = 10 + 10; //Task11:-Add Two Numbers with JavaScript
 const difference = 45 - 33; //Task12:-Subtract One Number from Another with JavaScript
 const product = 8 * 10; //Task13:-Multiply Two Numbers with JavaScript
 const quotient = 66 / 33; //Task14:-Divide One Number by Another with JavaScript
+let myVar = 87;
+
+// Only change code below this line
+myVar++; //Task15:-Increment a Number with JavaScript
