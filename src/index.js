@@ -52,4 +52,4 @@ myVar--; //Task16:-Decrement a Number with JavaScript
 var myDecimal = 5.7; //Task17:-Create Decimal Numbers with JavaScript
 const product = 2.0 * 2.5; //Task18:-Multiply Two Decimals with JavaScript
 var quotient = 4.4 / 2; // Task19:-Divide One Decimal by Another with JavaScrip
-
+var remainder = 8%3; //Task20:-Finding a Remainder in JavaScript
