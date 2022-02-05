@@ -53,3 +53,11 @@ var myDecimal = 5.7; //Task17:-Create Decimal Numbers with JavaScript
 const product = 2.0 * 2.5; //Task18:-Multiply Two Decimals with JavaScript
 var quotient = 4.4 / 2; // Task19:-Divide One Decimal by Another with JavaScrip
 var remainder = 8%3; //Task20:-Finding a Remainder in JavaScript
+let a = 3;
+let b = 17;
+let c = 12;
+
+//Task21:- Compound Assignment With Augmented Addition
+a+= 12;
+b+= 9;
+c+= 7;
