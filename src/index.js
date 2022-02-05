@@ -115,3 +115,7 @@ let myStr = "Jello World"; //Task34:-Understand String Immutability
 myStr = "Hello World"; // Change this line
 // Only change code above this line 
 
+const lastName = "Lovelace";
+
+// Only change code below this line
+const thirdLetterOfLastName = lastName[2];// task35:-Use Bracket Notation to Find the Nth Character in a String
