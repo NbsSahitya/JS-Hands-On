@@ -171,3 +171,9 @@ var myList = [
       ["Toilet Paper", 12],
       ["Sack of Rice", 1]
     ]; //Task48:-Shopping List
+    function reusableFunction() {
+      console.log("Hi World");
+    }
+  
+    // Call the function
+    reusableFunction(); //Task49:-Write Reusable JavaScript with Functions
