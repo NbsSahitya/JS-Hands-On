@@ -183,3 +183,9 @@ function functionWithArgs(a, b){
 }
 functionWithArgs(1,2);
 functionWithArgs(7,9);
+function timesFive(a){ //Task51:-Return a Value from a Function with Return
+      return (5*a);
+    }
+    timesFive(5);
+    timesFive(2);
+    timesFive(0);
