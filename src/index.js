@@ -47,3 +47,5 @@ let myVar = 87;
 
 // Only change code below this line
 myVar++; //Task15:-Increment a Number with JavaScript
+let myVar = 11;
+myVar--; //Task16:-Decrement a Number with JavaScript
