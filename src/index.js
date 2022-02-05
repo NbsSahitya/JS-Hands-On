@@ -159,3 +159,6 @@ const myArray = [
 myArray.push(["dog", 3]); //Task44:-Manipulate Arrays With push()
 const myArray = [["John", 23], ["cat", 2]];
 const removedFromMyArray = myArray.pop() //Task45:-Manipulate Arrays With pop()
+const myArray = [["John", 23], ["dog", 3]];
+const removedFromMyArray = myArray.shift();//Task46:-Manipulate Arrays With shift()
+
