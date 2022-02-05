@@ -143,3 +143,7 @@ const myArray = ["hi", 9]; //Task39:-Store Multiple Values in one Variable using
 const myArray = [["Bulls", 23]]; //Task40:-Nest one Array within Another Array
 const myArray = [50, 60, 70];
 var myData =myArray[0]; //Task41:- Access Array Data with Indexes
+const myArray = [18, 64, 99]; //Task42:-Modify Array Data With Indexes
+myArray[0]=45;
+myArray[1]=64;
+myArray[2]=99;
