@@ -251,3 +251,17 @@ function processArg(num) {
 
 // Only change code below this line
 processed = processArg(7);
+function nextInLine(arr, item) {
+      // Task57:-Stand in Line
+      arr.push(item);
+      var removed = arr.shift();
+      return removed; // Change this line
+    }
+  
+    // Setup
+    const testArr = [1, 2, 3, 4, 5];
+  
+    // Display code
+    console.log("Before: " + JSON.stringify(testArr));
+    console.log(nextInLine(testArr, 6));
+    console.log("After: " + JSON.stringify(testArr));
