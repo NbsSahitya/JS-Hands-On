@@ -69,3 +69,11 @@ let c = 3;
 a -= 6;
 b -=15;
 c -=1;
+let a = 5;
+let b = 12;
+let c = 4.6;
+
+// Task23:- Compound Assignment With Augmented Multiplication
+a *= 5;
+b *= 3;
+c *=10;
