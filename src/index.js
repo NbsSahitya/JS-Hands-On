@@ -61,3 +61,11 @@ let c = 12;
 a+= 12;
 b+= 9;
 c+= 7;
+let a = 11;
+let b = 9;
+let c = 3;
+
+//Task22:- Compound Assignment With Subtraction
+a -= 6;
+b -=15;
+c -=1;
