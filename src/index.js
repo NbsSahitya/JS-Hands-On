@@ -119,3 +119,9 @@ const lastName = "Lovelace";
 
 // Only change code below this line
 const thirdLetterOfLastName = lastName[2];// task35:-Use Bracket Notation to Find the Nth Character in a String
+// Setup
+const lastName = "Lovelace";
+//Task36:-Use Bracket Notation to Find the Last Character in a String
+// Only change code below this line
+const lastLetterOfLastName = lastName[3]; 
+const lastLetter = lastName[lastName.length - 1];
