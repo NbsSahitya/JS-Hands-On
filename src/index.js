@@ -50,4 +50,5 @@ myVar++; //Task15:-Increment a Number with JavaScript
 let myVar = 11;
 myVar--; //Task16:-Decrement a Number with JavaScript
 var myDecimal = 5.7; //Task17:-Create Decimal Numbers with JavaScript
+const product = 2.0 * 2.5; //Task18:-Multiply Two Decimals with JavaScript
 
