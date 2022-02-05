@@ -98,3 +98,9 @@ const myStr = "hi,"+myName +" Singh";
 const someAdjective = "codeforce is awsome"; //Task31:-Appending Variables to Strings
 let myStr = "Learning to code is ";
 myStr +=someAdjective;
+let lastNameLength = 0; //Task32:-Find the Length of a String
+const lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;
+console.log(lastName.length);
