@@ -141,4 +141,5 @@ var wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAd
 const myArray = ["hi", 9]; //Task39:-Store Multiple Values in one Variable using JavaScript Arrays
 // Only change code below this line
 const myArray = [["Bulls", 23]]; //Task40:-Nest one Array within Another Array
-
+const myArray = [50, 60, 70];
+var myData =myArray[0]; //Task41:- Access Array Data with Indexes
